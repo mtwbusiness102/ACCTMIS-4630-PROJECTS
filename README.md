@@ -6,6 +6,7 @@ LABS
 #### <a href="https://github.com/HIDDEN-DRUM"> Lab 2 - Creating The Backlog </a>
 #### <a href="https://github.com/HIDDEN-DRUM/HIDDEN-DRUM-WEB"> Lab 3 - Creating The Frontend </a>
 #### <a href="https://github.com/HIDDEN-DRUM/HIDDEN-DRUM-API"> Lab 4 - API and Data Access </a>
+#### <a href="https://github.com/HIDDEN-DRUM/HIDDEN-DRUM-API"> Lab 5 - Testing: Unit Tests for the API and Web </a>
 
 
 
